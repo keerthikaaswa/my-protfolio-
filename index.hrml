@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keerthika Portfolio</title>
+</head>
+<body style="font-family: Arial; text-align: center; background-color: #f4f4f4;">
+
+    <h1>Keerthika Aswa</h1>
+    <p>ServiceNow Developer | ML Enthusiast</p>
+
+    <h2>About Me</h2>
+    <p>Motivated graduate with skills in Machine Learning and ServiceNow (CSA, CAD).</p>
+
+    <h2>Skills</h2>
+    <p>Python | Java | ServiceNow | Machine Learning</p>
+
+    <h2>Projects</h2>
+    <p>Fraud Detection System</p>
+    <p>Loan Prediction Model</p>
+
+    <h2>Contact</h2>
+    <p>Email: keerthikaaswa08@gmail.com</p>
+
+</body>
+</html>
